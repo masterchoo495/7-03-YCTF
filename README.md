@@ -123,7 +123,7 @@ output "external_ip_address_vm_1" {
 **Конфигурационные файлы выложены в репозиторий**
 
 
-Проверка конфигурации
+Проверка конфигурации  
 ![alt text](https://github.com/masterchoo495/7-03-YCTF/blob/main/scr1.png)
 
 Развернутая ВМ
